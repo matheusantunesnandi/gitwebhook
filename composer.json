@@ -1,0 +1,17 @@
+{
+    "name": "matheusanandi/gitwebhook",
+    "description": "Responsável por automatizar o deploy executando PULL e outros comandos no ambiente de produção.",
+    "autoload": {
+        "psr-4": {
+            "matheusanandi\\gitwebhook\\": "src/",
+            "matheusanandi\\gitwebhook\\config\\": "config/"
+        }
+    },
+    "authors": [
+        {
+            "name": "matheusanandi",
+            "email": ""
+        }
+    ],
+    "require": {}
+}
